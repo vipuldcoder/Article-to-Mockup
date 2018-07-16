@@ -1,7 +1,7 @@
 # Article-to-Mockup
 Practice HTML syntax by converting a mockup of a blog article into a real website!
 
-1) Text Formatting: All text is formatted identically to the mockup. You should not use break (<br>) tags for this project. You can create the desired separation with paragraph tags (<p>text</p>).
+1) Text Formatting: All text is formatted identically to the mockup. You should not use break tags for this project. You can create the desired separation with paragraph tags (text).
 
 2) Image and Link: The image’s source is the correct URL and all links in the article are correct.
 
