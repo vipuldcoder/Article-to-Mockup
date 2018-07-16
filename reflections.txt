@@ -6,4 +6,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+* I learned the skills like sub, sup, ul, li and a.
+** The h1 and are easy. There is no easy I really felt difficulty in understanding and made according to article.
+*** Like a and there linking makes a little difficult.
+**** I used w3schools and MDN refrence to overcome the problem solving strategies from the first project.
